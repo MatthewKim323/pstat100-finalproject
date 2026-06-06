@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Course handout (professor's) and stale exports — keep the notebook as source of truth
+Final Project Information.pdf
+Final_Project_Report.pdf
