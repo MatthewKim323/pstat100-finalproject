@@ -4,7 +4,7 @@ Predicting whether a U.S. adult earns **more than \$50,000/year** from demograph
 and employment features, using the **UCI Adult / Census Income** dataset (Becker &
 Kohavi, 1994 Census extract).
 
-**Group:** Ethan Chuang, Matthew Kim, Edward Lee, Angela Pei, Matthew Tran
+**Group:** Ethan Chuang, Matthew Kim, Angela Pei, Matthew Tran
 
 ## What's here
 
